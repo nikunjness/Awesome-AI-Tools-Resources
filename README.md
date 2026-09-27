@@ -466,6 +466,8 @@ These aren't "free tier" — they're open-weight models you can run yourself, wi
 
 | Title/Link | Description |
 |---|---|
+
+| [**aiFetchly**](https://www.aifetchly.com) | Open-source desktop AI agent for business automation: lead generation, knowledge-library RAG, outreach, and scheduled workflows on Windows, macOS, Linux. `desktop, AI agent, business automation, RAG, workflows` || [**Dooe**](https://dooe.io/) | AI-powered task management assistant. |
 | [**Dooe**](https://dooe.io/) | AI-powered task management assistant. |
 | [**Microsoft Project**](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) | Project planning and tracking tool. |
 | [**SmartSheet**](https://www.smartsheet.com/) | Cloud-based platform for work management. |
